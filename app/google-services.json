@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036365279031",
+    "project_id": "tunnelchat-22786",
+    "storage_bucket": "tunnelchat-22786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036365279031:android:2e934698c3fda9d62e34b2",
+        "android_client_info": {
+          "package_name": "com.example.tunnelchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ZNO_U89dUkau5B3oZFx4tpQKjzF7ZFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
